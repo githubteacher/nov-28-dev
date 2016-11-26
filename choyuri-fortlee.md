@@ -4,3 +4,7 @@
 - Dong Bang Grill for :korean bbq:
 - Bada Story for :sushi:
 
+## Bakeries
+
+- French Baquette 
+
