@@ -3,6 +3,7 @@
 ### food
 
 - Ed Red
+- Kabanosy and Pierogi with Zywiec!
 
 ### drink
 
