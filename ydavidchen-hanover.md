@@ -4,5 +4,3 @@
 -Molly's: Downtown
 -Salt Hill Pub: Downtown
 -Canoe Club: Downtown
-
-## Class Notes
