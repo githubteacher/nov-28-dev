@@ -6,3 +6,5 @@
 -Canoe Club: Downtown
 
 ## Places for a beer?
+
+## Attractions?
