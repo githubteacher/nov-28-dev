@@ -3,4 +3,5 @@
 ## Dev Team
 -  Mingle : frontend
 -  IFS : backend.
--  IFS : backend.
+
+Mingrating 2 Angular2.
