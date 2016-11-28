@@ -1,9 +1,10 @@
 # Olney, Buckinghamshire, England, UK
 
 ## Places to Eat
-- The Bull (Pub)
-- Cafe Brio (Cafe)
-- Amaya (Indian Restaurant)
-- The Cowper's Oak (Pub)
-- The Bell & Bear (Pub)
-- Olney Pancake Parlour (Cafe)
+- The Bull :beer:
+- Cafe Brio :cake:
+- Amaya :plate_with_cutlery:
+- The Cowper's Oak :beer:
+- The Bell & Bear :beer:
+- Olney Pancake Parlour :cake:
+- Costa Coffee :cake:
