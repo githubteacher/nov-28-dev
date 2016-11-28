@@ -1,4 +1,10 @@
-# Tampa, Fl
+# Tampa, FL
 
-## Places to Eat
-- Cigar at.
+## Restaurants
+- Ulele
+- Rusty Pelican
+- Brocato's Sandwich Shop
+
+## Places to having Drinks
+- Red Star Rock Bar
+- The Anchor Bar
