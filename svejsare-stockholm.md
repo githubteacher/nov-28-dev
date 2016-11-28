@@ -6,3 +6,6 @@
 - Ekstedts
 - Birkastans Pizzeria :pizza:
 
+## Suggestions
+- Visit Toronto, Canada.
+
