@@ -1,3 +1,3 @@
 #Place to go
--place 1
--place 2
+- place 1
+- place 2
